@@ -1,4 +1,4 @@
-import pygame, sys, time, random
+import pygame as pg, sys, time, random
 difficulty = 20
 frame_size_x = 1350
 frame_size_y = 700
